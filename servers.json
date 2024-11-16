@@ -49,7 +49,7 @@
             "address": "https://ani3server.fly.dev"
         },
         {
-            "name": "custom",   //doesn't really matter unless you're sharing this server list with someone else
+            "name": "custom",
             "address": "https://3.75.158.163"
         }
     ],
